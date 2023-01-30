@@ -1,0 +1,25 @@
+{
+    "vehicles": 
+    [
+        {
+            "platenumber": "AACA-341",
+            "brand": "Honda",
+            "price": 2000
+        },
+        {
+            "platenumber": "AABD-233",
+            "brand": "BMW",
+            "price": 3467
+        },
+        {
+            "platenumber": "AALO-781",
+            "brand": "Skoda",
+            "price": 5432
+        },
+        {
+            "platenumber": "AALO-123",
+            "brand": "Suzuki",
+            "price": 1245
+        }
+    ]
+}
